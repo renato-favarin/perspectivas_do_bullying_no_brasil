@@ -1,5 +1,5 @@
 # desafio_mod3_bootcamp_alura
-Desafio final do módulo 3 do bootcamp de data science aplicada da Alura
+Desafio final do módulo 3 do bootcamp de Data Science Aplicada da Alura
 
 Bullying; assunto sério, tema do meu projeto do módulo 3 do bootcamp da Alura, ministrado pelos mestres Thiago Gonçalves e Allan Spadini
 Escavar a base PeNSE 2015 (Pesquisa Nacional de Saúde Escolar), onde foram pesquisados mais de 100 mil alunos do 9º ano, distribuídos em todo território nacional de escolas privadas e públicas, e se deparar com algumas informações foi preocupante, para dizer o mínimo.
