@@ -10,4 +10,3 @@ Algumas conclusões:
 - quanto mais frequente o aluno é vítima de bullying, mais provável que também pratique o mesmo com outro(s) colega(s) (primeiro gráfico abaixo);
 - quase metade dos alunos que alegam sofrer bullying com muita frequência também se sentirem muito sozinhos nos últimos 30 dias (segundo gráfico abaixo) e 20% possuem nenhum ou apenas um amigo próximo;
 - 30% dos alunos que alegam dificuldades em dormir todas as noites, sofreram bullying recentemente.
-
