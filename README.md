@@ -8,7 +8,7 @@ Algumas conclusões:
 - não parece haver qualquer diferença entre os tipos de escola e a realidade do bullying presenciado em suas dependências;
 - para cada aluno que admitiu praticar bullying recentemente, existem praticamente 2,5 alunos que alegaram ter sido vítimas de bullying, pelo menos uma vez, nos últimos 30 dias.
 - quanto mais frequente o aluno é vítima de bullying, mais provável que também pratique o mesmo com outro(s) colega(s) (primeiro gráfico abaixo);
-- quase metade dos alunos que alegam sofrer bullying com muita frequência também se sentirem muito sozinhos nos últimos 30 dias (segundo gráfico abaixo) e 20% possuem nenhum ou apenas um amigo próximo;
+- quase metade dos alunos que alegam sofrer bullying com muita frequência também se sentiram muito sozinhos nos últimos 30 dias (segundo gráfico abaixo) e 20% possuem nenhum ou apenas um amigo próximo;
 - 30% dos alunos que alegam dificuldades em dormir todas as noites, sofreram bullying recentemente.
 
 ![bullying_linkedin](https://user-images.githubusercontent.com/64495168/104515427-93bb8d00-55d1-11eb-96c5-49f5c7fce177.jpg)
