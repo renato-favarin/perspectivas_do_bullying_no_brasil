@@ -1,4 +1,4 @@
-# desafio_mod3_bootcamp_alura
+# Perspectivas do bullying no Brasil
 Desafio final do módulo 3 do bootcamp de Data Science Aplicada da Alura
 
 Bullying; assunto sério, tema do meu projeto do módulo 3 do bootcamp da Alura, ministrado pelos mestres Thiago Gonçalves e Allan Spadini
