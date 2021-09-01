@@ -160,7 +160,7 @@ Procurar ajuda junto a escola e profissionais da saúde mental é fundamental.
   <img src = "/img/final.png" width="400">
 </p>
 
-### Referências
+## Referências
 
   • [Conteúdo sobre bullying e fonte da primeira imagem](http://www.justificando.com/2017/10/20/ja-passou-da-hora-de-reconhecer-que-o-bullying-existe-e-danoso-e-nao-pode-ser-admitido/) <br>
   • [Mais conteúdo sobre bullying e fonte da última imagem](https://amenteemaravilhosa.com.br/ferida-emocional-bullying-na-escola/)
