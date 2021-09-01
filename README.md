@@ -82,23 +82,41 @@ Exemplo de leitura: "aproximadamente 11% dos alunos que admitem ter praticado bu
 
 Repare, portanto, que o somatório dessas porcentagens apresentadas no gráfico não dará 100%, necessariamente.
 
-
-![bullying_freq](/img/ja_bullying.png)
-
+<p align="center">
+  <img src="img/ja_bullying.png"> 
+</center>
 
 ## Quanto mais frequente o aluno é vítima de bullying, há maiores chances de possuir menos amigos próximos e mais sozinhos se sentem
-![bullying_menos_amg](/img/amigos.png)
-<br>
-![bullying_sozinhos](/img/sozinhos.png)
 
+<p align="center">
+  
+  <img src="/img/amigos.png">
+
+ <br>
+  
+  <img src="/img/sozinhos.png">
+  
+</p>
 
 ## Quanto mais frequente o aluno envolve-se em brigas físicas, mais provável é que pratique ou que sofra bullying
-![bullying_brigas_praticado](/img/brigas_praticado.png)
+
+<p align="center">
+  
+  <img src = "/img/brigas_praticado.png">
+  
 <br>
-![bullying_brigas_sofrido](/img/brigas_sofrido.png)
+  
+  <img src = "/img/brigas_sofrido.png")
+  
+</p>
 
 ## Quanto mais frequente o aluno é vítima de bullying, aumenta-se as chances de não dormir direito;
-![bullying_sozinhos](/img/sono.png)
+
+<p align="center">
+  
+  <img src = "/img/sono.png">
+  
+</p>
 
 ## Percepção dos alunos quanto ao combate ao bullying nas escolas
 
@@ -130,5 +148,15 @@ Embora a maior parte das escolas apresente alguma política contrária à práti
 Levanta-se a hipótese que o resultado da política contrária ao bullying, existente nas escolas onde estudam cerca de 90% dos alunos que fizeram parte do estudo, seja ineficaz.
 
 ## Considerações finais
+Foi verificado que vítimas de bullying tendem a ser praticantes de bullying, reforçando o ciclo problemático, muitas vez com brigas físicas.
+Também constatou-se que as vítimas de bullying apresentam maior sensação de solidão e piora na qualidade do sono.
+É dever de todo educador, seja atuante em escolas ou sendo pai/mãe quebrar este ciclo que é tão destrutivo para crianças e jovens.
+Se notar algum comportamente estranho, é sinal de que algo pode estar errado no núcleo social do educando.
+Procurar ajuda junto a escola e profissionais da saúde mental é fundamental.
 
+<p align="center">
+  
+  <img src = "/img/final.png" width="400">
+  Fonte: https://amenteemaravilhosa.com.br/ferida-emocional-bullying-na-escola/
+</p>
 
