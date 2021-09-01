@@ -2,6 +2,8 @@
 
 Este trabalho tem o objetivo de trazer reflexões sobre o bullying e de seus efeitos em alunos do 9º ano (antiga 8ª série) do ensino fundamental no Brasil.
 
+![bullying](/img/bullying.jpg)
+
 Foi utilizada a base de dados PeNSE (Pesquisa Nacional de Saúde Escolar); esta base investiga informações que permitem conhecer e dimensionar os fatores de risco e proteção à saúde dos adolescentes. A pesquisa é realizada por amostragem, utilizando como referência para seleção o cadastro das escolas públicas e privadas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP. <br>
 
 A base está disponível em: https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html?caminho=pense/2015/microdados/ <br>
@@ -72,15 +74,31 @@ Pergunta aos alunos: Você já sofreu bullying?
 |Não informado|0.00|0.45|0.40|0.22|
 
 ## Quanto mais frequente o aluno é vítima de bullying, mais provável que também pratique o mesmo com outro(s) colega(s)
+Este e os demais gráficos apresentam um recorte de uma subamostra específica (no caso abaixo, considerando apenas os alunos que admitiram ter praticado bullying nos últimos 30 dias) e verifica-se qual é a participação desses alunos quanto a resposta de cada uma das alternativas listadas no eixo X para a pergunta a respeito se já sofreram bullying.<br>
 
+Exemplo de leitura: "aproximadamente 11% dos alunos que admitem ter praticado bullying também responderam que 'nunca' sofreram bullying nos últimos 30 dias, enquanto que para aqueles que alegam 'sempre' sofrerem bullying nos últimos 30 dias, este percentual é mais de 30%."
+
+É possível, ainda, complementar a leitura: "os outros quase 90% dos alunos que 'nunca' sofreram bullying nos últimos 30 dias, também não praticaram com seus colegas, enquanto que menos de 70% dos alunos que 'sempre' sofreram bullying nos últimos 30 dias deixaram de praticar com seus colegas."
+
+Repare, portanto, que o somatório dessas porcentagens apresentadas no gráfico não dará 100%, necessariamente.
+
+
+![bullying_freq](/img/ja_bullying.png)
 
 
 ## Quanto mais frequente o aluno é vítima de bullying, há maiores chances de possuir menos amigos próximos e mais sozinhos se sentem
+![bullying_menos_amg](/img/amigos.png)
+<br>
+![bullying_sozinhos](/img/sozinhos.png)
 
 
-## Quanto mais frequente o aluno envolve-se em brigas físicas, mais provável é que pratique ou que sofra bullying;
+## Quanto mais frequente o aluno envolve-se em brigas físicas, mais provável é que pratique ou que sofra bullying
+![bullying_brigas_praticado](/img/brigas_praticado.png)
+<br>
+![bullying_brigas_sofrido](/img/brigas_sofrido.png)
 
 ## Quanto mais frequente o aluno é vítima de bullying, aumenta-se as chances de não dormir direito;
+![bullying_sozinhos](/img/sono.png)
 
 ## Percepção dos alunos quanto ao combate ao bullying nas escolas
 
