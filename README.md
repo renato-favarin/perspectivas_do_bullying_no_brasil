@@ -2,17 +2,13 @@
 
 Este trabalho tem o objetivo de trazer reflexões sobre o bullying e de seus efeitos em alunos do 9º ano (antiga 8ª série) do ensino fundamental no Brasil.
 
-Foi utilizada a base de dados PeNSE (Pesquisa Nacional de Saúde Escolar); esta base investiga informações que permitem conhecer e dimensionar os fatores de risco e proteção à saúde dos adolescentes. A pesquisa é realizada por amostragem, utilizando como referência para seleção o cadastro das escolas públicas e privadas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP.
+Foi utilizada a base de dados PeNSE (Pesquisa Nacional de Saúde Escolar); esta base investiga informações que permitem conhecer e dimensionar os fatores de risco e proteção à saúde dos adolescentes. A pesquisa é realizada por amostragem, utilizando como referência para seleção o cadastro das escolas públicas e privadas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP. <br>
+
+A base está disponível em: https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html?caminho=pense/2015/microdados/ <br>
 
 Escavar a base PeNSE, do ano de 2015, onde foram pesquisados mais de 100 mil alunos do 9º ano, distribuídos em todo território nacional de escolas privadas e públicas, e se deparar com algumas informações foi preocupante, para dizer o mínimo.
 
-Algumas conclusões:
-- não parece haver qualquer diferença entre os tipos de escola e a realidade do bullying presenciado em suas dependências;
-- para cada aluno que admitiu praticar bullying recentemente, existem praticamente 2,5 alunos que alegaram ter sido vítimas de bullying, pelo menos uma vez, nos últimos 30 dias.
-- quanto mais frequente o aluno é vítima de bullying, mais provável que também pratique o mesmo com outro(s) colega(s) (primeiro gráfico abaixo);
-- quase metade dos alunos que alegam sofrer bullying com muita frequência também se sentiram muito sozinhos nos últimos 30 dias (segundo gráfico abaixo) e 20% possuem nenhum ou apenas um amigo próximo;
-- 30% dos alunos que alegam dificuldades em dormir todas as noites, sofreram bullying recentemente.
-
+O estudo completo pode ser visto no arquivo notebook. As principais conclusões estão descritas a seguir.
 
 ## Distribuição da base PeNSE 2015
 
