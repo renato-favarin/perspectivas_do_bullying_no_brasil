@@ -2,8 +2,10 @@
 
 Este trabalho tem o objetivo de trazer reflexões sobre o bullying e de seus efeitos em alunos do 9º ano (antiga 8ª série) do ensino fundamental no Brasil.
 
-![bullying](/img/bullying.jpg)
-
+  <p align="center">
+    <img src = "/img/bullying.jpg" width="800"> <br>
+  </p>
+  
 Foi utilizada a base de dados PeNSE (Pesquisa Nacional de Saúde Escolar); esta base investiga informações que permitem conhecer e dimensionar os fatores de risco e proteção à saúde dos adolescentes. A pesquisa é realizada por amostragem, utilizando como referência para seleção o cadastro das escolas públicas e privadas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP. <br>
 
 A base está disponível em: https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html?caminho=pense/2015/microdados/ <br>
@@ -155,8 +157,10 @@ Se notar algum comportamente estranho, é sinal de que algo pode estar errado no
 Procurar ajuda junto a escola e profissionais da saúde mental é fundamental.
 
 <p align="center">
-  
   <img src = "/img/final.png" width="400">
-  Fonte: https://amenteemaravilhosa.com.br/ferida-emocional-bullying-na-escola/
 </p>
 
+### Referências
+
+  • [Conteúdo sobre bullying e fonte da primeira imagem](http://www.justificando.com/2017/10/20/ja-passou-da-hora-de-reconhecer-que-o-bullying-existe-e-danoso-e-nao-pode-ser-admitido/) <br>
+  • [Mais conteúdo sobre bullying e fonte da última imagem](https://amenteemaravilhosa.com.br/ferida-emocional-bullying-na-escola/)
