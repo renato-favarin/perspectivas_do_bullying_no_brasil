@@ -127,10 +127,8 @@ Embora a maior parte das escolas apresente alguma política contrária à práti
 
 <p> * a diferença observada para as escolas federais pode ser devido à reduzida quantidade de respostas disponíveis na base PeNSE 2015. </p>
 
-
-
 Levanta-se a hipótese que o resultado da política contrária ao bullying, existente nas escolas onde estudam cerca de 90% dos alunos que fizeram parte do estudo, seja ineficaz.
 
+## Considerações finais
 
 
-![bullying_linkedin](https://user-images.githubusercontent.com/64495168/104515427-93bb8d00-55d1-11eb-96c5-49f5c7fce177.jpg)
