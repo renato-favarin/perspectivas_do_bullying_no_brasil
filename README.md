@@ -79,15 +79,43 @@ Pergunta aos alunos: Você já sofreu bullying?
 
 
 
-Quanto mais frequente o aluno é vítima de bullying, há maiores chances de possuir menos amigos próximos e mais sozinhos se sentem;
+## Quanto mais frequente o aluno é vítima de bullying, há maiores chances de possuir menos amigos próximos e mais sozinhos se sentem
 
-Quanto mais frequente o aluno envolve-se em brigas físicas, mais provável é que pratique ou que sofra bullying;
 
-Quanto mais frequente o aluno é vítima de bullying, aumenta-se as chances de não dormir direito;
+## Quanto mais frequente o aluno envolve-se em brigas físicas, mais provável é que pratique ou que sofra bullying;
 
-Embora a maior parte das escolas apresente alguma política contrária à prática de bullying, não há diferenças na percepção de bullying pelos alunos que frequentam escolas que apresentam ou que não apresentam tal política;
+## Quanto mais frequente o aluno é vítima de bullying, aumenta-se as chances de não dormir direito;
 
-Levanta-se a hipótese que resultado da política contrária ao bullying, existente nas escolas onde estudam cerca de 90% dos alunos que fizeram parte do estudo, seja ineficaz.
+## Percepção dos alunos quanto ao combate ao bullying nas escolas
+
+Embora a maior parte das escolas apresente alguma política contrária à prática de bullying, não há diferenças* na percepção de bullying pelos alunos que frequentam escolas que apresentam ou que não apresentam tal política, como pode ser visto nas duas tabelas a seguir:
+
+- Considerando apenas a matrícula de alunos que alegaram ter sofrido bullying com alta frequência ('sempre') nos últimos 30 dias, compila-se a respostas do(a) diretor(a), coordernador(a) ou responsável pela escola para a pergunta: a escola tem alguma política, norma ou regra escrita que proíba bullying nas suas dependências?
+
+
+|Resposta (%)|Federal|Estadual|Municipal|Privada|
+|--------:|:----:|:-----:|:----:|:----:|
+|Dados não disponíveis|0.00|0.19|0.00|0.00|
+|Sim|64.29|88.02|87.83|93.64|
+|Não|35.71|11.66|12.17|5.96|
+|Não informado|0.00|0.13|0.00|0.40|
+
+
+- Considerando apenas a matrícula de alunos que alegaram não ter sofrido bullying ('nunca') nos últimos 30 dias, compila-se as respostas do(a) diretor(a), coordernador(a) ou responsável pela escola para a  pergunta: a escola tem alguma política, norma ou regra escrita que proíba bullying nas suas dependências?
+
+
+|Resposta (%)|Federal|Estadual|Municipal|Privada|
+|--------:|:----:|:-----:|:----:|:----:|
+|Dados não disponíveis|0.00|0.14|0.00|0.36|
+|Sim|91.72|88.24|85.35|93.09|
+|Não|8.28|11.55|14.53|6.19|
+|Não informado|0.00|0.07|0.12|0.36|
+
+<p> * a diferença observada para as escolas federais pode ser devido à reduzida quantidade de respostas disponíveis na base PeNSE 2015. </p>
+
+
+
+Levanta-se a hipótese que o resultado da política contrária ao bullying, existente nas escolas onde estudam cerca de 90% dos alunos que fizeram parte do estudo, seja ineficaz.
 
 
 
